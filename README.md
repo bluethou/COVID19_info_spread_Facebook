@@ -3,8 +3,10 @@
 This readme file explains the contents of repository
 
 COVID_19_Information_Spread_around_Political_Engagement_on_Facebook
-[Presentation file](https://github.com/bluethou/COVID19_info_spread_Facebook/blob/main/Info_spread_presentation.pdf)
-[Article](https://github.com/bluethou/COVID19_info_spread_Facebook/blob/main/%5BFinal%5D%20COVID_19_Information_Spread_around_Political_Engagement_on_Facebook.pdf)
+[Presentation file]
+(https://github.com/bluethou/COVID19_info_spread_Facebook/blob/main/Info_spread_presentation.pdf)
+[Article]
+(https://github.com/bluethou/COVID19_info_spread_Facebook/blob/main/%5BFinal%5D%20COVID_19_Information_Spread_around_Political_Engagement_on_Facebook.pdf)
 
 Directory
 - csvfiles: a directory having csv files
