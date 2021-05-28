@@ -29,4 +29,5 @@ In ipynb_files:
 - [For_Colab]prediction_model_evaluation.ipynb: Prediction model evaluation script that Google Colab runs
 
 
-* 본 프로젝트는 Google의 GCP Credit 지원을 받고 있습니다.
+
+본 프로젝트는 뮌헨공과대학교의 Social Computing 그룹의 리서치 프로젝트이며, Google의 GCP Credit 지원을 받고 있습니다.
