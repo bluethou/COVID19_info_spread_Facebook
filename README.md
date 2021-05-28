@@ -27,3 +27,6 @@ In ipynb_files:
 - Topic_timeseries.ipynb: Time-seires and sentiment analysis by Topics
 - [For_Colab]Contextualized_Topic_Modeling.ipynb: Contextualized_Topic_Modeling script that Google Colab runs
 - [For_Colab]prediction_model_evaluation.ipynb: Prediction model evaluation script that Google Colab runs
+
+
+* 본 프로젝트는 Google의 GCP Credit 지원을 받고 있습니다.
